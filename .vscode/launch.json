@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "c:\\Users\\HP\\OneDrive\\Documents\\software engineering\\project\\index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open backend.py",
+            "file": "c:\\Users\\HP\\OneDrive\\Documents\\software engineering\\project\\backend.py"
+        },
+    ]
+}
